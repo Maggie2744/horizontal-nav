@@ -8,13 +8,24 @@ h1 {
   font-family: 'Bevan', sans-serif;
   color: #ffffff;
   font-weight: bold;
+  text-align: center;
 }
 
 header {
   background-color: #79756f;
   border-color: #595652;
+  border-style: solid;
 }
 
 ul {
   list-style-type: none;
+  color: #ffffff;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  padding: .6em .5em .75em;
+  margin: .3em;
+  text-align: center;
 }
