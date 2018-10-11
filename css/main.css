@@ -38,3 +38,7 @@ nav a {
   text-align: center;
   border-radius: 10px;
 }
+
+a:hover {
+  color: #f33;
+}
