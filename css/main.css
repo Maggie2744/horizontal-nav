@@ -17,15 +17,23 @@ header {
   border-style: solid;
 }
 
-ul {
+nav ul {
   list-style-type: none;
-  color: #ffffff;
-  text-align: center;
+  padding: 0;
+  margin: 0;
 }
 
 nav li {
+  color: #ffffff;
+  display: inline;
+
+}
+
+nav a {
   display: inline-block;
   padding: .6em .5em .75em;
-  margin: .3em;
-  text-align: center;
+  background-color: #713837;
+  color: #fff;
+  text-decoration: none;
+  font-family: sans-serif;
 }
