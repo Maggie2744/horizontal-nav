@@ -26,7 +26,6 @@ nav ul {
 nav li {
   color: #ffffff;
   display: inline;
-
 }
 
 nav a {
@@ -36,4 +35,5 @@ nav a {
   color: #fff;
   text-decoration: none;
   font-family: sans-serif;
+  text-align: center;
 }
