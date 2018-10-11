@@ -1,6 +1,7 @@
 html {
   background-color: #dbd6cf;
   line-height: 1.5;
+  text-align: center;
 }
 
 h1 {
@@ -11,6 +12,7 @@ h1 {
 
 header {
   background-color: #79756f;
+  border-color: #595652;
 }
 
 .nav {
