@@ -5,8 +5,8 @@ html {
 }
 
 h1 {
-  font-family: 'Bevan', sans-serif;
-  color: #ffffff;
+  font-family: "Bevan", sans-serif;
+  color: #fff;
   font-weight: bold;
   text-align: center;
 }
@@ -24,7 +24,7 @@ nav ul {
 }
 
 nav li {
-  color: #ffffff;
+  color: #fff;
   display: inline;
 }
 
