@@ -16,6 +16,8 @@ header {
   background-color: #79756f;
   border-color: #595652;
   border-style: solid;
+  padding: 1em;
+  margin: -7px -10px;
 }
 
 nav ul {
@@ -38,7 +40,6 @@ nav a {
   font-family: sans-serif;
   text-align: center;
   border-radius: 10px;
-  padding: 1em;
 }
 
 a:hover {
