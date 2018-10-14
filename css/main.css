@@ -38,6 +38,7 @@ nav a {
   font-family: sans-serif;
   text-align: center;
   border-radius: 10px;
+  padding: 1em;
 }
 
 a:hover {
