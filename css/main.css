@@ -5,6 +5,10 @@ html {
   box-sizing: border-box;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 h1 {
   font-family: "Bevan", sans-serif;
   color: #fff;
@@ -18,6 +22,7 @@ header {
   border-style: solid;
   padding: 1em;
   margin: -7px -10px;
+  box-sizing: border-box;
 }
 
 nav ul {
