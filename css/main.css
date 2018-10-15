@@ -41,8 +41,10 @@ nav li {
 }
 
 nav a {
-  display: inline-block;
+  display: inline-flex;
   padding: .6em .5em .75em;
+  max-width: 20em;
+  margin: .3em;
   background-color: #713837;
   color: #fff;
   text-decoration: none;
