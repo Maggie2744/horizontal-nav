@@ -18,6 +18,7 @@ h1 {
   color: #fff;
   font-weight: bold;
   text-align: center;
+  margin:0;
 }
 
 header {
@@ -25,7 +26,6 @@ header {
   border-color: #595652;
   border-style: solid;
   padding: 1em;
-  margin: -7px -10px;
   box-sizing: border-box;
 }
 
@@ -42,8 +42,8 @@ nav li {
 
 nav a {
   display: inline-block;
-  padding: 1em 1em 1em 1em;
-  margin: .3em;
+  padding: .5em .75em;
+  margin-bottom: .3em ;
   background-color: #713837;
   color: #fff;
   text-decoration: none;
