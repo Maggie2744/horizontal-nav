@@ -41,7 +41,7 @@ nav li {
 }
 
 nav a {
-  display: inline-flex;
+  display: inline-block;
   padding: .6em .5em .75em;
   max-width: 20em;
   margin: .3em;
